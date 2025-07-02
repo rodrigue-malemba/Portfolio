@@ -6,7 +6,8 @@ const wordGen = () => {
 console.log(wordGen());
 // This function generates a random word from the predefined list and logs it to the console.
 // The words include variations of "flyer" and "flier" in different forms.
-switch(this.wordS){
+let wordThing = wordGen();
+switch(wordThing){
     case 'flyer':
         console.log('This is a flyer');
         break;
