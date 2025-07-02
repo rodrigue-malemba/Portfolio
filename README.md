@@ -1,3 +1,3 @@
 # Portfolio
 Mon premier projet JavaScript
-## Now you can generate the more words with this instruction and a small words request
+### This function generates a random word from the predefined list and logs it to the console.
